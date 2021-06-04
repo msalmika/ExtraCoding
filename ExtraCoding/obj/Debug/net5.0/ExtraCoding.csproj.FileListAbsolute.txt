@@ -1,0 +1,16 @@
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\bin\Debug\net5.0\ExtraCoding.exe
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\bin\Debug\net5.0\ExtraCoding.deps.json
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\bin\Debug\net5.0\ExtraCoding.runtimeconfig.json
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\bin\Debug\net5.0\ExtraCoding.runtimeconfig.dev.json
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\bin\Debug\net5.0\ExtraCoding.dll
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\bin\Debug\net5.0\ref\ExtraCoding.dll
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\bin\Debug\net5.0\ExtraCoding.pdb
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\obj\Debug\net5.0\ExtraCoding.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\obj\Debug\net5.0\ExtraCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\obj\Debug\net5.0\ExtraCoding.AssemblyInfoInputs.cache
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\obj\Debug\net5.0\ExtraCoding.AssemblyInfo.cs
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\obj\Debug\net5.0\ExtraCoding.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\obj\Debug\net5.0\ExtraCoding.dll
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\obj\Debug\net5.0\ref\ExtraCoding.dll
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\obj\Debug\net5.0\ExtraCoding.pdb
+C:\Users\Marko\source\repos\ExtraCoding\ExtraCoding\obj\Debug\net5.0\ExtraCoding.genruntimeconfig.cache
